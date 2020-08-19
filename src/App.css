@@ -13,8 +13,8 @@ styling for each page */
   font-family: sans-serif;
   }
   th {
-    background-color: pink;
-    color: blueviolet;
+    background-color: rgb(184, 124, 134);
+    color: rgb(46, 45, 48);
   }
   html, body, #root {
     padding: 0;

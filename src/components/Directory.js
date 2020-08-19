@@ -51,7 +51,7 @@ class Directory extends Component {
       <div>
         <div className="jumbotron">
           <h1 className="display-4">Employee Directory</h1>
-          <p>Search below by name or email to pull up who you are looking for.</p>
+          <p>Search by name/email to find who you are looking for.</p>
           <Search
             name="search"
             startSort={this.startSort}

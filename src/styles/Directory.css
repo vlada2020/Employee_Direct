@@ -1,5 +1,5 @@
 .jumbotron {
-    background: pink;
+    background: rgb(184, 124, 134);
    
   }
   
@@ -15,16 +15,16 @@
   }
   
   .table {
-    background: pink;
+    background: rgb(245, 227, 229);
     color: #whitesmoke;
     font-family: 'Assistant', sans-serif;
     box-shadow: 15px 15px 10px #888888;
   }
   .thead {
-    background: pink;
+    background: rgb(240, 182, 191);
     font-family: 'Assistant', sans-serif;
   }
   
   .table td, .table th {
-    border-top: 1px solid pink;
+    border-top: 1px solid rgb(240, 192, 200);
   }
