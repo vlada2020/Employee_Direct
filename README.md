@@ -24,13 +24,6 @@ The user should be able to:
 
 
 
-In the project directory, you can run:
-
-#### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000/Employee_Direct](http://192.168.1.7:3000/Employee_Direc) to view it in the browser.
-
 
 ## Usage 
 This was made to meet the requirements of a homework assignment. 
