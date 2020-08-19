@@ -1,0 +1,30 @@
+.jumbotron {
+    background: pink;
+   
+  }
+  
+  h1, h4 {
+    color: black;
+    font-family: 'Timmana', sans-serif;
+  }
+  
+  p {
+    color: black;
+    font-family: 'Assistant', sans-serif;
+    font-size: 1.5rem;
+  }
+  
+  .table {
+    background: pink;
+    color: #whitesmoke;
+    font-family: 'Assistant', sans-serif;
+    box-shadow: 15px 15px 10px #888888;
+  }
+  .thead {
+    background: pink;
+    font-family: 'Assistant', sans-serif;
+  }
+  
+  .table td, .table th {
+    border-top: 1px solid pink;
+  }
